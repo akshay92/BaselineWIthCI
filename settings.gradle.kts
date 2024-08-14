@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "BaselineWIthCI"
 include(":app")
- 
+include(":baselineprofile")
