@@ -5,7 +5,7 @@ on: pull_request
 jobs:
   build-benchmark-apks:
     name: Generate baseline profile
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
